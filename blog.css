@@ -1,0 +1,81 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(photo.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: #ff69b4;
+    
+    
+}
+.menubar{
+   color: plum;
+   background-color: rgb(248, 230, 250);
+ 
+}
+ul{
+    list-style: none;
+    display: inline-flex; 
+    margin: 10px;  
+    
+   
+}
+a{
+    
+    text-decoration: none;
+}
+
+li{
+    
+    margin-right: 40px;
+    color:plum
+}
+li :hover{
+    background-color:white;
+    color:rgb(230, 0, 210) ;
+}
+
+.homepage h2{
+    color:rgb(248, 230, 250) ;
+    text-align: center;
+
+    
+}
+.homepage h3 {
+    color:rgb(248, 230, 250) ;
+    text-align: center;
+    font-style: italic;
+} 
+footer {
+    position: fixed;
+    background-color:rgb(248, 230, 250) ; 
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+  }
+.news  h3{
+    text-align: center;
+    color:rgb(230, 0, 210) ; 
+    font-size: 40px;
+  }
+.news p{
+    color:rgb(248, 230, 250) ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.news em{
+    color:rgb(210, 128, 255) ;
+}
+.news label{
+    color:rgb(248, 230, 250) ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.news fieldset{
+    border-color: rgb(230, 0, 210);
+}
+
+    
+
