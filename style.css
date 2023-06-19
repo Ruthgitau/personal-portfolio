@@ -47,7 +47,7 @@ em{
 .insta{
     height: 20px;
     width: 20px;
-    margin-left: 15cm;
+    margin-left: 5cm;
     margin-right: 6cm;
     padding: 10px;
 }
@@ -62,11 +62,12 @@ em{
     height: 20px;
     width: 20px;
     margin-left:25cm;
-    margin-right: 2cm;
+    margin-right: 20cm;
     margin-bottom: 20px;
     margin-top: 10px;
     
 }
+
 .footer-content{
     background-color: #ff69b4;
     height: 3cm;
@@ -77,4 +78,15 @@ em{
     height: 3cm;
     width: 100%;
     background-image: url(foot.jpeg);
+}
+#footer{
+    text-align: center;
+    padding-inline-end: 10px;
+}
+
+.footer-list{
+    justify-content: center;
+    align-items: center;
+
+  
 }

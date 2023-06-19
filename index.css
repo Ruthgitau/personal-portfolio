@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap');
+body{
+  background-color: #D8D5BA;
+}
+.navbar {
+    position: relative;
+    top: 0;
+    right: 0;
+    background-color:#D8D5BA ;
+    padding: 10px;
+    width: 100%;
+    display: block;
+    text-justify: distribute;
+    text-align: center;
+  }
+  
+  .navbar a {
+    margin-right: 10px;
+    color:#00495F;
+    text-decoration: none;
+    background-color:#D8D5BA;
+    font-size: 20px;
+  }
+  
+  .navbar a:hover {
+    text-decoration: underline;
+  }
+  #btn{
+    background-color: ;
+  }
+
+  #head{
+    color: #00495F;
+    text-align: center;
+  }
