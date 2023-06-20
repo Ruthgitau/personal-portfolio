@@ -2,15 +2,15 @@
 .body{
     text-align: center;
     font-style:  'Tajawal', sans-serif;
-    background-color:black ;
+    background-color:#D8D5BA ;
     
 }
 p{
-    color: #ff69b4;   
+    color: #00495F;   
     font-size: 25px;
 }
 em{
-    color:#D4AF37
+    color:#F99F53;
 }
 .fieldset{
     height: 200px;
@@ -26,17 +26,17 @@ em{
 .btn-sub{
     width: 150px;
     height: 50px;
-    background-color: #D4AF37;
-    color: black;
+    background-color: #F99F53;
+    color: #D8D5BA;
     font-size: 15px;
 }
 .btn-sub:hover{
-    background-color: black;
-    color: #ff69b4;
+    background-color:#3B695F ;
+    color:#FDD9D5;
     font-size: 20px;
 }
 #contact-p{
-    color: #ff69b4;
+    color: #00495F;
 
 }
 .span{
@@ -69,7 +69,7 @@ em{
 }
 
 .footer-content{
-    background-color: #ff69b4;
+    background-color:#3B695F;
     height: 3cm;
     width: 100%;
 
