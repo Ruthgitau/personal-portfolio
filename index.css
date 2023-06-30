@@ -26,10 +26,18 @@ body{
     text-decoration: underline;
   }
   #btn{
-    background-color: ;
+    background-color: #00495F;
+    color: #D8D5BA ;
+    
   }
 
   #head{
     color: #00495F;
     text-align: center;
+  }
+
+  .intro{
+    margin-top: 250px;
+    margin-bottom: 250px;
+    margin-left: 100px;
   }
